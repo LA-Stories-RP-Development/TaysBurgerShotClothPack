@@ -74,3 +74,7 @@ Start your server and connect to it
 - Press M to open vMenu  and browse thru your new added clothes (They are always added to the end / last DLC clothes)
 
 ## IF THEY DO NOT APPEAR, YOU DO NOT HAVE THE REQUIRED PATREON SUBSCRIPTION TO STREAM CLOTHING.
+
+# Regarding Crashes in FiveM:
+
+Read [here](https://forum.cfx.re/t/tutorial-forcing-gamebuilds-on-fivem/4784977) regarding gamebuilds and clothing YMT limits
